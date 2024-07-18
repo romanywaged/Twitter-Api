@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Twitter Task</string>
+    <string name="pageTittle">Twitter character count</string>
+    <string name="twitter_logo_description">twitter logo</string>
+    <string name="back_navigation_description">back navigation</string>
+    <string name="postContentHint">Start typing! You can enter up to 280 characters</string>
+    <string name="copyText">Copy text</string>
+    <string name="postText">Post tweet</string>
+    <string name="pleaseFillData">Please fill post content range!</string>
+    <string name="charTyped">Characters Typed</string>
+    <string name="remainingChar">Characters Remaining</string>
+    <string name="noDataToCopy">No data to copy !</string>
+    <string name="noDataToClear">No data to clear !</string>
+    <string name="initialCount">0/280</string>
+    <string name="initialCountRemaining">280</string>
+    <string name="problem">i have troubleshot with X Developers !</string>
+</resources>
